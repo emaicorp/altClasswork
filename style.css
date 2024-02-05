@@ -1,0 +1,47 @@
+body{
+    background-color: #c4e5ec;
+}
+.name{
+    text-align: center;
+}
+.name h1 span{
+    color: cadetblue;
+}
+.logo{
+    width: 15vh;
+    height: 10vh;
+}
+.headImg{
+    width: 100%;
+}
+.headImg img{
+    width: 100%;
+}
+
+.headImg h2{
+    padding: 10px;
+    background-color: cornflowerblue;
+    width: fit-content;
+    position: relative;
+    margin-left: 10px;
+    color: white;
+    font-weight: bolder;
+    margin-top: -5vh;
+}
+.offset{
+    /* display: flex; */
+    /* gap: 2; */
+    display: flex;
+    align-items: center;
+    gap: 2;
+    margin-bottom: 5vh;
+}
+.offset h1{
+    margin: 0px 10px;
+}
+.hhr{
+   background-color: black;
+   /* border: 1px solid red; */
+   width: 100%;
+   height: 3px;
+}
